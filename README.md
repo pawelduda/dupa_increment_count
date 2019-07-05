@@ -1,5 +1,11 @@
 # dupa_increment_count
-Simple debug marker you can have inserted anywhere just by binding this command to a keypress
+Simple debug marker you can have inserted anywhere just by binding this script to a keypress.
+
+Then, it will insert an unique marker with current time every time you press the key:
+```
+dupa_1 at 00:36:26
+dupa_2 at 00:36:28
+```
 
 # Dependencies
 [xvkbd](http://t-sato.in.coocan.jp/xvkbd/)
