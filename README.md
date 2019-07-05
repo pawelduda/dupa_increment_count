@@ -7,6 +7,16 @@ dupa_1 at 00:36:26
 dupa_2 at 00:36:28
 ```
 
+Or, given that you just typed:
+```
+console.log('<your cursor here>')
+```
+...press the assigned key, aaand...
+```
+console.log('dupa_3 at 00:41:29')
+```
+
+
 # Dependencies
 [xvkbd](http://t-sato.in.coocan.jp/xvkbd/)
 
