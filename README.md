@@ -1,5 +1,5 @@
 # dupa_increment_count
-Simple debug marker you can have inserted anywhere just by binding this script to a keypress.
+Simple debug marker you can have inserted anywhere just by binding this script to a keypress. The counter resets once your `/tmp/increment_marker.dupa` is removed (so, practically on every system boot). 
 
 Then, it will insert an unique marker with current time every time you press the key:
 ```
