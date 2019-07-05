@@ -26,3 +26,6 @@ console.log('dupa_3 at 00:41:29')
 3. Bind a key to the command, like so:
 
 ![Bind a key to the command, like so](set_custom_shortcut.png)
+
+# But why?
+Because I wanted to incorporate this into my workflow and maybe someone else will find it useful.
