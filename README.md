@@ -101,3 +101,9 @@ end
 
 ## Make the language awareness editor-agnostic
 For now this is just a dream
+
+# Contributions, anyone?
+- Create an issue
+- Create a pull request
+
+# If you made it this far, thank you!
